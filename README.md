@@ -18,7 +18,7 @@ Tools and Services for landing page development. To contribute, please make a pu
 - [Materialize](http://materializecss.com/) : CSS Framework based on material design.
 
 ## Email Integration
-- [Formspree](https://formspree.io/) : Just send your form to our URL and they will forward it to your email. No PHP, Javascript or sign up required.
+- [Formspree](https://formspree.io/) : Just send your form to Formspree URL and they will forward it to your email. No PHP, Javascript or sign up required.
 - [Haboob](https://app.haboob.co) : Transactional Email For Developers, integrates with the most used transactional email services (even smtp), just send json data to the generated url — perfect for static sites!
 
 ## Forms
